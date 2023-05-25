@@ -1,0 +1,11 @@
+{
+    "name": "excel fill",
+    "version": "1.0.0",
+    "description": "select data on page and fill in own excel file",
+    "manifest_version": 3,
+    "author": "lb madesia",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "excel fill"
+    }
+}
